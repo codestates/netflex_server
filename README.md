@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/PROJECT-NETFLEX-red?style=for-the-badge) 
 # Netflex
-![](https://ifh.cc/g/555NX7.png)
+![](https://ifh.cc/g/F3r5og.png)
 
 “ 영화, 리뷰만 모아서 보자.  ‘ Flex ’  하게 ”
 
